@@ -1,2 +1,2 @@
-# Second-class
-htnl5+css+js
+#大学生第二课堂
+通过htnl5+css+js技术实现的web，暂时包括三个页面：登录页面、主页面（画廊）、个人资料页
